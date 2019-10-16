@@ -32,6 +32,7 @@
       {{ content }}
 
       <footer class="site-footer">
+        {% assign social = site.social_links %}
         {% if social.github %}
           <li><a href="https://github.com/{{ social.github | cgi_escape | escape }}" title="{{ social.github | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg></a></li>
         {% endif %}
