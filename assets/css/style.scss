@@ -8,10 +8,15 @@
 }
 
 .svg-icon {
-  width: 16px;
-  height: 16px;
+  width: 32px;
+  height: 32px;
   display: inline-block;
   fill: currentColor;
   padding: 5px 3px 2px 5px;
   vertical-align: text-bottom;
+}
+
+.social-media-link {
+  color: #828282;
+  font-size: small;
 }

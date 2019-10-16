@@ -34,7 +34,7 @@
       <footer class="site-footer">
         {% assign social = site.social_links %}
         {% if social.github %}
-          <li><a href="https://github.com/{{ social.github | cgi_escape | escape }}" title="{{ social.github | escape }}"><img class="svg-icon grey" src="{{ 'artemis-developers/assets/images/github-50.png' }}"></img> {{ social.github | escape }}</a></li>
+          <li><a href="https://github.com/{{ social.github | cgi_escape | escape }}" title="{{ social.github | escape }}" class="social-media-link"><img src="{{ '/assets/images/github-50.png' }}"></img> {{ social.github | escape }}</a></li>
         {% endif %}
         {% if social.twitter %}
           <li><a href="https://twitter.com/{{ social.twitter | cgi_escape | escape }}" title="{{ social.twitter | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a></li>
