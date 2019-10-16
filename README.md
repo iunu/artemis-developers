@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to the Artemis developer's portal!
 
-You can use the [editor on GitHub](https://github.com/artemis-ag/artemis-ag.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Copy goes here about who might be using this page and why.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Documentation
 
-### Markdown
+- [API Documentation](https://app.swaggerhub.com/apis/Artemis-Ag/Artemis-Ag-V3/1.0.0-oas3#/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Talk about our documentation_
 
-```markdown
-Syntax highlighted code block
+ - [The Artemis API gem](https://github.com/artemis-ag/artemis_api)
 
-# Header 1
-## Header 2
-### Header 3
+ _Description of the Artemis API gem_
 
-- Bulleted
-- List
+### Support
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/artemis-ag/artemis-ag.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you need help getting set up with the Artemis API or you encounter any problems with the provided documentation, the Artemis team is here to help. Please contact [our Developer Advocate, Jamey Hampton](mailto:jhampton@artemisag.com), with any questions or concerns you may have.
