@@ -1,12 +1,12 @@
 ## Welcome to the Artemis developer's portal!
 
-Copy goes here about who might be using this page and why.
+If you're a developer working on integrating with the Artemis API, the team of developers at Artemis has aggregated some documentation that can help you get started and work with our code.
 
 ### Documentation
 
 - [API Documentation](https://app.swaggerhub.com/apis/Artemis-Ag/Artemis-Ag-V3/1.0.0-oas3#/)
 
-_The most current version of the Artemis API is v3 and it is documented on Swaggerhub. It uses OAuth 2.0 for authorization. To get your Artemis app id and app secret, you will need your Artemis account to be flagged as a developer account. If it has been, you can create an OAuth application from the Artemis settings page. If you're not flagged as a developer account and you need to be, please contact [jhampton@artemisag.com](mailto:jhampton@artemisag.com) and we'll help you get set up._
+The most current version of the Artemis API is v3 and it is documented on Swaggerhub. It uses OAuth 2.0 for authorization. To get your Artemis app id and app secret, you will need your Artemis account to be flagged as a developer account. If it has been, you can create an OAuth application from the Artemis settings page. If you're not flagged as a developer account and you need to be, please contact [jhampton@artemisag.com](mailto:jhampton@artemisag.com) and we'll help you get set up.
 
  - [The Artemis API gem](https://github.com/artemis-ag/artemis_api)
 
