@@ -8,15 +8,20 @@
 }
 
 .svg-icon {
-  width: 32px;
-  height: 32px;
-  display: inline-block;
+  display: block;
+  width: 1rem;
+  height: 1rem;
+  margin-right: .5rem;
   fill: currentColor;
-  padding: 5px 3px 2px 5px;
-  vertical-align: text-bottom;
 }
 
 .social-media-link {
+  align-items: center;
   color: #828282;
+  display: flex;
   font-size: small;
+}
+
+.social-media-link + .social-media-link {
+  margin-left: 2rem;
 }
