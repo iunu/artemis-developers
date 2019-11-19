@@ -29,6 +29,10 @@ It's possible to test the API calls directly on the [SwaggerHub documentation pa
 
 If you just need to access your authorization code directly, you can add `urn:ietf:wg:oauth:2.0:oob` as an additional callback url to your OAuth application. Then, clicking the Authorize button directly beside it on your application show page will just provide you directly with an authorization code.
 
+### Minimum System Requirements
+
+[View minimum system requirement information here.](https://agrilyst.zendesk.com/hc/en-us/articles/360035814792-Requirements-for-Artemis-) This covers the Artemis web app, as well as both the Apple and Android versions of the mobile app.
+
 ### Support
 
 If you need help getting set up with the Artemis API or you encounter any problems with the provided documentation, the Artemis team is here to help. Please contact [our Developer Advocate, Jamey Hampton](mailto:jhampton@artemisag.com), with any questions or concerns you may have.
