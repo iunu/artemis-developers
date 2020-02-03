@@ -35,4 +35,4 @@ If you just need to access your authorization code directly, you can add `urn:ie
 
 ### Support
 
-If you need help getting set up with the Artemis API or you encounter any problems with the provided documentation, the Artemis team is here to help. Please contact [our Developer Advocate, Jamey Hampton](mailto:jhampton@artemisag.com), with any questions or concerns you may have.
+If you need help getting set up with the Artemis API or you encounter any problems with the provided documentation, the Artemis team is here to help. Please contact [Jon Dayton](mailto:jdayton@artemisag.com), with any questions or concerns you may have.
