@@ -4,7 +4,7 @@ If you're a developer working on integrating with the Artemis API, the team of d
 
 ### Documentation
 
-- [API Documentation](https://app.swaggerhub.com/apis/Artemis-Ag/Artemis-Ag-V3/1.0.0-oas3#/)
+- [API Documentation](https://portal.artemisag.com/api/docs)
 
 The most current version of the Artemis API is v3 and it's documented on SwaggerHub.
 
@@ -25,7 +25,7 @@ The Artemis API v3 uses OAuth 2.0 for authorization. In order to set up an OAuth
 
 If you already have a developer account, you can create your OAuth application from the Artemis settings page and it will provide you with your app id and app secret.
 
-It's possible to test the API calls directly on the [SwaggerHub documentation page](https://app.swaggerhub.com/apis/Artemis-Ag/Artemis-Ag-V3/1.0.0-oas3#/) by creating an OAuth application for Swagger tests using this URL as the callback URL: `https://app.swaggerhub.com/oauth2_redirect` You'll then be able to Authorize on SwaggerHub using your app id and app secret and use their "Try it out" feature within the documentation.
+It's possible to test the API calls directly on the [SwaggerHub documentation page](https://portal.artemisag.com/api/docs) by creating an OAuth application for Swagger tests using this URL as the callback URL: `https://app.swaggerhub.com/oauth2_redirect` You'll then be able to Authorize on SwaggerHub using your app id and app secret and use their "Try it out" feature within the documentation.
 
 If you just need to access your authorization code directly, you can add `urn:ietf:wg:oauth:2.0:oob` as an additional callback url to your OAuth application. Then, clicking the Authorize button directly beside it on your application show page will just provide you directly with an authorization code.
 
