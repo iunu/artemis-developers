@@ -21,7 +21,7 @@ The most current version of the Artemis API is v3 and it's documented on Swagger
 
 ### OAuth 2.0
 
-The Artemis API v3 uses OAuth 2.0 for authorization. In order to set up an OAuth 2.0 application and get your Artemis app id and app secret, you'll need your Artemis account to be flagged as a developer account. If you're not flagged as a developer account and you need to be, contact your Artemis representative or email [jdayton@artemisag.com](mailto:jdayton@artemisag.com) and we'll help you get set up.
+The Artemis API v3 uses OAuth 2.0 for authorization. In order to set up an OAuth 2.0 application and get your Artemis app id and app secret, you'll need your Artemis account to be flagged as a developer account. If you're not flagged as a developer account and you need to be, contact your Artemis representative or email [Melody Tribble](mailto:mtribble@artemisag.com) and we'll help you get set up.
 
 If you already have a developer account, you can create your OAuth application from the Artemis settings page and it will provide you with your app id and app secret.
 
@@ -35,4 +35,4 @@ If you just need to access your authorization code directly, you can add `urn:ie
 
 ### Support
 
-If you need help getting set up with the Artemis API or you encounter any problems with the provided documentation, the Artemis team is here to help. Please contact [Melody Tribble](mailto:mtribble@artemisag.com), with any questions or concerns you may have.
+If you need help getting set up with the Artemis API or you encounter any problems with the provided documentation, the Artemis team is here to help. Please contact [Melody Tribble](mailto:mtribble@artemisag.com) with any questions or concerns you may have.
